@@ -1,0 +1,1786 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isClassComponent\tfunction"
+			],
+			[
+				"impmad",
+				"imp_madutils\tImport mad-utils"
+			],
+			[
+				"imprcom",
+				"imp_recompose\tImport recompose functions"
+			],
+			[
+				"Injecte",
+				"InjectionType\ttype"
+			],
+			[
+				"wrap",
+				"wrapDisplayName\talias"
+			],
+			[
+				"displa",
+				"wrapDisplayName\tfunction"
+			],
+			[
+				"with",
+				"withState\talias"
+			],
+			[
+				"lo",
+				"laddaOn\tproperty"
+			],
+			[
+				"vali",
+				"validation\talias"
+			],
+			[
+				"was",
+				"wasLoadedFromLogin\tproperty"
+			],
+			[
+				"unlock-account",
+				"unlock-account-expired-container.tsx"
+			],
+			[
+				"snip_",
+				"snip_conditionals_example\tExample with large sections of conditional text"
+			],
+			[
+				"tslint",
+				"tslint_disableruleline\tDisable any # of specific listed tslint rules on current line"
+			],
+			[
+				"rct_newcon",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"rct_newclas",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"rct_new",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"impmadbo",
+				"imp_madutils_browser\tImport mad-utils - browser"
+			],
+			[
+				"rct_cont",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"Merge",
+				"MergeReturnTypes\ttype"
+			],
+			[
+				"If",
+				"IfTruthy\tconst"
+			],
+			[
+				"find",
+				"find\tmethod"
+			],
+			[
+				"mocha_",
+				"mocha_new_file_boiler\tSkeleton of a new Mocha test file"
+			],
+			[
+				"jsdom",
+				"jsdomType\ttype"
+			],
+			[
+				"lamb",
+				"lambda_export\tExport an immutable lambda expression assigned to a variable"
+			],
+			[
+				"laten",
+				"latinLangCharWSlashesQuotesBracesRegex\tconst"
+			],
+			[
+				"latin",
+				"latinLangCharWSlashesRegex\tconst"
+			],
+			[
+				"S",
+				"StoreProps\tinterface"
+			],
+			[
+				"cap",
+				"capitalize\tconst"
+			],
+			[
+				"es",
+				"lib.es2016.d.ts"
+			],
+			[
+				"password",
+				"passwordTakenError\tconst"
+			],
+			[
+				"Js",
+				"JSX\tmodule"
+			],
+			[
+				"sc",
+				"signup.scss"
+			],
+			[
+				"regex_pos",
+				"regex_pos_lookbehind\tPositive lookbehind"
+			],
+			[
+				"regex_ne",
+				"regex_neg_lookbehind\tNegative lookbehind"
+			],
+			[
+				"exp_f",
+				"exp_arrow_fn\tes6: export arrow function (lambda) as constant"
+			],
+			[
+				"Componen",
+				"ComponentClass\tinterface"
+			],
+			[
+				"sign",
+				"signup-flow-nav-handlers\tscript"
+			],
+			[
+				"clearSi",
+				"clearSignupData\tmethod"
+			],
+			[
+				"set_",
+				"set_postalCode\tproperty"
+			],
+			[
+				"signup",
+				"signupFormState\tproperty"
+			],
+			[
+				"get",
+				"getPrevPage\tconst"
+			],
+			[
+				"toSnake",
+				"toSnakeCase\tconst"
+			],
+			[
+				"submit",
+				"submitFnName\tconst"
+			],
+			[
+				"param",
+				"Parameter\twindow.Expression"
+			],
+			[
+				"imp_madu",
+				"imp_madutils_browser\tImport mad-utils - browser"
+			],
+			[
+				"type",
+				"types/"
+			],
+			[
+				"str_replace",
+				"str_replace_all\tReplace all matches in string with replacement text"
+			],
+			[
+				"toSnak",
+				"toSnakeCase\tconst"
+			],
+			[
+				"cx_len",
+				"cx_length_of\tExpect that length of value/result is within 2 given vals"
+			],
+			[
+				"uuid",
+				"uuid\talias"
+			],
+			[
+				"imp_mad",
+				"imp_madutils_user_agent_handling\tImport mad-utils submodules to auto-extract User Agent data"
+			],
+			[
+				"par",
+				"parseUserAgent\tfunction"
+			],
+			[
+				"us",
+				"parseUserAgent\tfunction"
+			],
+			[
+				"brow",
+				"browserEngineVersion\tconst"
+			],
+			[
+				"browserEngin",
+				"browserEngineVersion\talias"
+			],
+			[
+				"broser",
+				"browserVersion\tconst"
+			],
+			[
+				"moc",
+				"mock-local-storage\tscript"
+			],
+			[
+				"expect",
+				"expectFunctionExists\talias"
+			],
+			[
+				"uu",
+				"uuid\tCreate a UUID. require yarn add uuid"
+			],
+			[
+				"hel",
+				"helpers/"
+			],
+			[
+				"Component",
+				"ComponentElement\tinterface"
+			],
+			[
+				"imprec",
+				"imp_recompose\tImport recompose functions"
+			],
+			[
+				"impre",
+				"imp_recompose\tImport recompose functions"
+			],
+			[
+				"madlog_",
+				"madlog_browser_log_setup\tSet mad-logs up for use in browser in current file"
+			],
+			[
+				"valid",
+				"isValidString\tfunction"
+			],
+			[
+				"R",
+				"RouterProps\tinterface"
+			],
+			[
+				"no",
+				"submitNotifications\tproperty"
+			],
+			[
+				"TextLink",
+				"TextLinkProps\tinterface"
+			],
+			[
+				"log",
+				"LogOpts\tinterface"
+			],
+			[
+				"types",
+				"types-iso.ts"
+			],
+			[
+				"mad-",
+				"mad-utils\texternal module name"
+			],
+			[
+				"Div",
+				"DivClickedEvent\ttype"
+			],
+			[
+				"Child",
+				"ChildrenPassthruProps\talias"
+			],
+			[
+				"ic_",
+				"ic_signup_notifications.svg"
+			],
+			[
+				"curRou",
+				"curRouteIdx\tconst"
+			],
+			[
+				"curRoute",
+				"curRouteName\tparameter"
+			],
+			[
+				"obj_get",
+				"obj_get_prototype_of\tGet an Object's prototype: i.e. what's assigned to [[prototype]]"
+			],
+			[
+				"Com",
+				"ComponentClass\tinterface"
+			],
+			[
+				"sig",
+				"signup-types.tsx"
+			],
+			[
+				"Notifi",
+				"NotificationsSignupView\talias"
+			],
+			[
+				"hrefSa",
+				"hrefSansTrailingSlash\tconst"
+			],
+			[
+				"remove",
+				"removeMatchingText\tconst"
+			],
+			[
+				"release",
+				"releaseEnvAbbrev\talias"
+			],
+			[
+				"person",
+				"personPlusSvg\tconst"
+			],
+			[
+				"Lo",
+				"LocationSignupView\talias"
+			],
+			[
+				"go",
+				"goBack\tproperty"
+			],
+			[
+				"react-rout",
+				"react-router-dom\texternal module name"
+			],
+			[
+				"TextBlocK",
+				"TextBlockProps\tinterface"
+			],
+			[
+				"impmadutil",
+				"imp_madutils_browser\tImport mad-utils - browser"
+			],
+			[
+				"improuter",
+				"imp_react_router_dom\tImport react-router-dom"
+			],
+			[
+				"switch",
+				"switch\tSwitch-case statement based on string input"
+			],
+			[
+				"si",
+				"SignupFormModel\talias"
+			],
+			[
+				"impmadu",
+				"imp_madutils_browser\tImport mad-utils - browser"
+			],
+			[
+				"imp_react",
+				"imp_react\tImport React library"
+			],
+			[
+				"mobx_",
+				"mobx_inject_in_react\tInject part of the data store into a React component's this.props"
+			],
+			[
+				"impmobx",
+				"imp_mobx_react\timport mobx-react library"
+			],
+			[
+				"define",
+				"defineProperty\tfunction"
+			],
+			[
+				"rct_ts_",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"rct_new_",
+				"rct_new_component_file_boiler\tBoilerplate for React component file"
+			],
+			[
+				"requ",
+				"required\tproperty"
+			],
+			[
+				"rct_cla",
+				"rct_classname\tDefine React component classes via classname module. Use inside React tag."
+			],
+			[
+				"rcl",
+				"rct_life_cwm_class\tReact: componentWillMount - class"
+			],
+			[
+				"match",
+				"matchAny\tconst"
+			],
+			[
+				"rct_new_ts",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"top",
+				"top-menu-bar\tscript"
+			],
+			[
+				"rct_ts_new",
+				"rct_ts_new_class_container\tNew class component - container component - typescript"
+			],
+			[
+				"rct_class",
+				"rct_class_new\tReact component class"
+			],
+			[
+				"madlog",
+				"madlog_browser_log_setup\tSet mad-logs up for use in browser in current file"
+			],
+			[
+				"shapes",
+				"shapes.tsx"
+			],
+			[
+				"com",
+				"components/"
+			],
+			[
+				"flex_ali",
+				"flex_align_items\t[PARENT] Alignment of items on cross-axis (opposite of flex-dir)"
+			],
+			[
+				"tslin",
+				"tslint_disable_next_line\tSuppresses all errors on the following line"
+			],
+			[
+				"out",
+				"outbreaks/"
+			],
+			[
+				"lear",
+				"learn-about-immunizations-container\tscript"
+			],
+			[
+				"My",
+				"MyRecordsView\talias"
+			],
+			[
+				"my",
+				"my-records/"
+			],
+			[
+				"border_",
+				"border_style\tborder-style (type of border: solid|dashed|hidden|)"
+			],
+			[
+				"fin",
+				"fin_class\tDefine SCSS variable"
+			],
+			[
+				"comp",
+				"components-subapp/"
+			],
+			[
+				"getImg",
+				"getImgFilePath\tconst"
+			],
+			[
+				"lower",
+				"toLowerCase\tmethod"
+			],
+			[
+				"mixin",
+				"mixin_use\tUse a mixin, including passing it vars"
+			],
+			[
+				"tssfc",
+				"ts_fn_bsc_retobj\tNew typescript fn with type annotations"
+			],
+			[
+				"snip_fil",
+				"snip_filename_noextpath\tCurrent file, minus the path and extension"
+			],
+			[
+				"madlo",
+				"madlog_browser_log_setup\tSet mad-logs up for use in browser in current file"
+			],
+			[
+				"mad",
+				"mad-utils\texternal module name"
+			],
+			[
+				"flex",
+				"flex_example\tExample flexbox-using style"
+			],
+			[
+				"imprct_rout",
+				"imp_react_router_dom\tImport react-router-dom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "01-hello-js-kotlin.sublime-project",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "package org.sample\n   \nfun factorial(n: Int): Long = if (n == 0) 1 else n * factorial(n - 1)\n   \ninline fun IntRange.forOdd(f: (Int) -> Unit) {\n    this.forEach { if (it % 2 == 1) f(it) }\n}\n\n",
+			"file": "library.kt",
+			"file_size": 190,
+			"file_write_time": 131457132090000000,
+			"settings":
+			{
+				"buffer_size": 191,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gdefinition",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				"apply",
+				"Find Results: Apply Changes"
+			],
+			[
+				"aply",
+				"Find Results: Apply Changes"
+			],
+			[
+				"appl",
+				"Find Results: Apply Changes"
+			],
+			[
+				"Auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open in bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"open in browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"appy",
+				"Find Results: Apply Changes"
+			],
+			[
+				"decorate",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"docblock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"comment",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ap",
+				"Find Results: Apply Changes"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"haskell",
+				"Build With: Haskell"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"jsdocs_decorate",
+			"jsdecorate",
+			"js_decorate",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andfaulkner/projects/kotlin/01-hello-js-kotlin"
+	],
+	"file_history":
+	[
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/doc/todos/todo-web-client--2017-07-12.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/doc/todos/todo-web-client.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/i18n/fr.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/i18n/en.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/i18n/spoken_languages.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/i18n/country_codes.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/country-signup-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/submit-signup-data.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-config-adapter.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/create-account-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-input-utils.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/location-signup-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/get-listdata.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-view-component-utils.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-types.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/language-signup-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-view-wrapper.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-root.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/styles/global-styles.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-nav-handlers.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/models/root-model.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/models/signup-form-model.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/node_modules/@types/react/index.d.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/lib/react.jsx",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/_docs_guides/cloud/azure/azure--definitions.md",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/forgot-password-card/withStateLocal.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/hocs/with-toast-notifications.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/hocs/as-ladda-controller.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/forgot-password-card/forgot-password-card-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/signup-complete-view.tsx",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/_docs_guides/definitions-general.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/email-verification/email-verification-base-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/login-card/login-card-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/password-reset/password-reset-card-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-expired-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/config/app/config-client.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/test/src/react.spec.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/email-verification/email-verification-card-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/login-card/login-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/forgot-password-card/forgot-password-card-view.tsx",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/node_modules/lodash/flowRight.js",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/helpers/config-utils.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/react.tsx",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/test/src/object.spec.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/object.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/helpers/api-helpers.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/types.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/models/models.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-error-handling.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/tslint.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/password-reset/password-reset-success-card.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/email-verification/email-verification-fail-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-flow-config.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/email-verification/email-verification-success-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/password-reset/password-reset-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-success-card.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-landing-router.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-expired-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components/login-page/login-page-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-success-card.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-expired-card.scss",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/json--__translate__.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/json--new-field.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/json--new-key-val-pair_ie-new-field-w-__translate__.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/json--new-key-val-pair_ie-new-field.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/typescript/_libs/react/ts--react--new-class-container--ts.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/python_snippets/python--sublime-apis--get-syntax.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/python_snippets/python--sublime-apis--get-current-file-in-view-2.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/python_snippets/python--sublime-apis--get-current-file-in-view-3.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/python_snippets/python--sublime-apis--get-current-file-in-view.sublime-snippet",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/login-card/canimmunize-logo-bird--padlock.svg",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-success-card-view.tsx",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/typescript/_libs/react/ts--react--new-view-stateless-functional-component--ts.sublime-snippet",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/styles/utils/layout/border.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/main-client/main-client-router.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-card-container.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-card-view.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/unlock-account/unlock-account-success.scss",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/browser/dom.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/string.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/test/src/dom.spec.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/test/src/string.spec.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/README.md",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/CHANGELOG.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/build/config-client.js",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/styles/variables/colors.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/test/integration/integration-test-base.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/test/test-helpers/enzyme-jsdom-setup.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/test/mocha-integration.opts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/package.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/test/test-helpers/stub-console.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/package.json",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/test/src/types.spec.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-style-utils.tsx",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/react/types-react.tsx",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/validation.ts",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/js/commenting/jsdoc/js--jsdoc--return-jsx-element.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/js/commenting/jsdoc/ts--jsdoc--return-jsx-element.sublime-snippet",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/snippets/snippets/_langs/js/commenting/jsdoc/js--jsdoc--param.sublime-snippet",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/types-iso.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/script/util-cmds/sync-src-to-build",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/doc/testing_any_specific_path.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup.scss",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/build/app/i18n/en.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/build/app/i18n/fr.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/build/app/client/login.js",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/types/types.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/doc/modules_in_use.md",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/config/client-modules-config.js",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/typings/index.d.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/typings/custom/project-typings.d.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/hocs/with-document-title.tsx",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/src/number.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/script/util-cmds/nuke-cmd.js",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/script/util-cli",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/notifications-signup-view.tsx",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/andfaulkner/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/script/setup-tasks/install-global-dependencies.sh",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-utils.tsx",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/typings/custom/require-dir/index.d.ts",
+		"/Users/andfaulkner/projects/new_node_modules/mad-utils/node_modules/reflect-metadata/typings.d.ts",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/typings.json",
+		"/Users/andfaulkner/projects/ohri/canimmunize-web-client-v2/doc/awesome-collection.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/signup/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/signup/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,,-.editorconfig",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions,",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**,-.ebextensions",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log,-**/build/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt,-.snyk,-*.log",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock,-*.md,-*.txt",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-*.md",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**,-package.json,-yarn.lock",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/canimmunize-web-client-v2/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/node_modules/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.tsx",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.ts",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.tsx",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.ts,*.tsx",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/server/**,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/server/**,**/config/**,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/(server|config)/**,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/server/**,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/server/**,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,**/server/**",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.js,-*>md",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,-*.js",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.scss",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip,*.css",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"*.ts,*.tsx,*.json,",
+			"*.ts,*.tsx,*.json",
+			"*.ts,*.tsx",
+			"-*.asdf",
+			"-*.json",
+			"*.ts,*.js",
+			"*.ts",
+			"",
+			"Proe",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"validateCreateAccount",
+			"isDevelopment",
+			"errMaybe",
+			"submitFnName",
+			"this.",
+			"submitHandler",
+			"submitNotifications",
+			"'",
+			"countries",
+			"spokenLanguage",
+			"spokenLangs",
+			"const curLang",
+			",",
+			":",
+			",",
+			"country",
+			"countries",
+			"country_cocdes",
+			"countries",
+			"countryChange",
+			"submitCountry",
+			"countryChange",
+			"country",
+			"countries",
+			"*   ",
+			"deburr",
+			" (le)",
+			"*",
+			"countries",
+			"import { countries } from '../utils/get-listdata';\ncountries",
+			"countries",
+			"set_",
+			"submitSignupData",
+			"submitHandler",
+			"set_spokenLanguage",
+			"[^a-zA-Z]Keypress[^a-zA-Z]",
+			"[^a-zA-Z]KeyPress[^a-zA-Z]",
+			"[^a-zA-Z]KeyPress",
+			"KeyPress",
+			"Keypress",
+			"submitCreateAccount",
+			"\"",
+			"___",
+			"auth-panel-root__",
+			",",
+			", ",
+			"auth-panel-root",
+			"LaddaButton",
+			":focus",
+			"Down",
+			"press",
+			"key",
+			"submit",
+			"submitCreateAccount",
+			"props.events.onKeyDown",
+			"ClassAttributes",
+			"ChangeTargetHTMLAttributes",
+			"ChangeTargetHTMLProps",
+			"DOMAttributes",
+			"HTMLAttributes",
+			"HTMLProps",
+			"HTMLAttributes",
+			"HTMLProps",
+			"JSX",
+			"HTMLDiv",
+			",",
+			"MidSignup",
+			"courriel",
+			" ",
+			"\"t",
+			"var",
+			"Thank you for creating an account",
+			"addNotification",
+			"errors\\.",
+			"text\\.",
+			"fail",
+			"\"",
+			"PP",
+			"Z",
+			"Y",
+			"X",
+			"W",
+			"V",
+			"U",
+			"T",
+			"S",
+			"R",
+			"F",
+			":",
+			"obj",
+			"obj1",
+			"merge",
+			"submitSignupData",
+			"v2\\/signup",
+			"\\/signup",
+			"signup",
+			"syncDomain",
+			"dev",
+			"laddaO",
+			"this.laddaOff();",
+			"isLoading",
+			"signup",
+			"isLoading",
+			"build",
+			"buildState",
+			"changeStatePropHandler",
+			"isLoading",
+			"laddaOff",
+			"isLoading",
+			" ",
+			"isLoading",
+			"loading",
+			"asLadda",
+			"renderComponent",
+			"isLoading",
+			"state",
+			"isLoading",
+			"this.lad",
+			"isLoading",
+			"handleRequestError",
+			"isLoading",
+			"laddaOn",
+			"this.setState(buildState(this.state, true, 'isLoading'))",
+			"setState",
+			"isLoading",
+			"state",
+			"state\\.isLoading",
+			"state"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"getMainFlowPageObj",
+			"postal_code_first_3_or_all",
+			"",
+			"  ",
+			"    ",
+			"~"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/Users/andfaulkner/projects/kotlin/01-hello-js-kotlin",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "01-hello-js-kotlin.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "library.kt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Kotlin/Kotlin.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "01-hello-js-kotlin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"country_",
+				"canimmunize-web-client-v2/app/i18n/country_codes.json"
+			],
+			[
+				"signupcountri",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/country-signup-view.tsx"
+			],
+			[
+				"getlist",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/get-listdata.ts"
+			],
+			[
+				"model",
+				"canimmunize-web-client-v2/app/client/models/root-model.ts"
+			],
+			[
+				"submitsign",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/submit-signup-data.ts"
+			],
+			[
+				"utils/signup",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-nav-handlers.ts"
+			],
+			[
+				"authpanelscss",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-root.scss"
+			],
+			[
+				"authpanel",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-input-utils.tsx"
+			],
+			[
+				"global-styles",
+				"canimmunize-web-client-v2/app/client/styles/global-styles.scss"
+			],
+			[
+				"typesreact.d.ts",
+				"mad-utils/node_modules/@types/react/index.d.ts"
+			],
+			[
+				"reactjsx",
+				"mad-utils/lib/react.jsx"
+			],
+			[
+				"reactindex.d.ts",
+				"mad-utils/node_modules/@types/react/index.d.ts"
+			],
+			[
+				"azure-d",
+				"_docs_guides/cloud/azure/azure--definitions.md"
+			],
+			[
+				"signuputil",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-view-component-utils.tsx"
+			],
+			[
+				"signup/",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-container.tsx"
+			],
+			[
+				"fr.json",
+				"canimmunize-web-client-v2/app/i18n/fr.json"
+			],
+			[
+				"en.json",
+				"canimmunize-web-client-v2/app/i18n/en.json"
+			],
+			[
+				"fr.",
+				"canimmunize-web-client-v2/app/i18n/fr.json"
+			],
+			[
+				"fr",
+				"mad-utils/node_modules/lodash/flowRight.js"
+			],
+			[
+				"en",
+				"canimmunize-web-client-v2/app/i18n/en.json"
+			],
+			[
+				"signupcompleteview",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/signup-complete-view.tsx"
+			],
+			[
+				"emailverifi",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/email-verification/email-verification-card-container.tsx"
+			],
+			[
+				"configclient",
+				"canimmunize-web-client-v2/config/app/config-client.ts"
+			],
+			[
+				"configutils",
+				"canimmunize-web-client-v2/app/client/helpers/config-utils.ts"
+			],
+			[
+				"object.t",
+				"mad-utils/src/object.ts"
+			],
+			[
+				"objectspects",
+				"mad-utils/test/src/object.spec.ts"
+			],
+			[
+				"madutilsreact",
+				"mad-utils/react.tsx"
+			],
+			[
+				"configts",
+				"canimmunize-web-client-v2/config/app/config-client.ts"
+			],
+			[
+				"language-si",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/language-signup-view.tsx"
+			],
+			[
+				"types.tsx",
+				"canimmunize-web-client-v2/app/client/types.tsx"
+			],
+			[
+				"definitions",
+				"_docs_guides/definitions-general.md"
+			],
+			[
+				"en.js",
+				"canimmunize-web-client-v2/app/i18n/en.json"
+			],
+			[
+				"models",
+				"canimmunize-web-client-v2/app/client/models/models.ts"
+			],
+			[
+				"tslint",
+				"canimmunize-web-client-v2/tslint.json"
+			],
+			[
+				"apihel",
+				"canimmunize-web-client-v2/app/client/helpers/api-helpers.ts"
+			],
+			[
+				"forgotpassword",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/forgot-password-card/forgot-password-card-container.tsx"
+			],
+			[
+				"with",
+				"canimmunize-web-client-v2/app/client/hocs/with-toast-notifications.tsx"
+			],
+			[
+				"signuperror",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-error-handling.tsx"
+			],
+			[
+				"signupflowconfi",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-config-adapter.tsx"
+			],
+			[
+				"createaccoutn",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/create-account-view.tsx"
+			],
+			[
+				"login",
+				"canimmunize-web-client-v2/app/client/components/login-page/login-page-container.tsx"
+			],
+			[
+				"apihelpers",
+				"canimmunize-web-client-v2/app/client/helpers/api-helpers.ts"
+			],
+			[
+				"with-",
+				"canimmunize-web-client-v2/app/client/hocs/with-toast-notifications.tsx"
+			],
+			[
+				"reactcontainersnippet",
+				"snippets/_langs/typescript/_libs/react/ts--react--new-class-container--ts.sublime-snippet"
+			],
+			[
+				"pythonsublime",
+				"snippets/_langs/python_snippets/python--sublime-apis--get-syntax.sublime-snippet"
+			],
+			[
+				"locksvg",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/login-card/canimmunize-logo-bird--padlock.svg"
+			],
+			[
+				"reactviewsnippet",
+				"snippets/_langs/typescript/_libs/react/ts--react--new-view-stateless-functional-component--ts.sublime-snippet"
+			],
+			[
+				"clientrouter",
+				"canimmunize-web-client-v2/app/client/components-subapp/main-client/main-client-router.tsx"
+			],
+			[
+				"readme",
+				"mad-utils/README.md"
+			],
+			[
+				"string",
+				"mad-utils/src/string.ts"
+			],
+			[
+				"todoweb",
+				"canimmunize-web-client-v2/doc/todos/todo-web-client.md"
+			],
+			[
+				"object.ts",
+				"mad-utils/src/object.ts"
+			],
+			[
+				"configclientts",
+				"canimmunize-web-client-v2/config/app/config-client.ts"
+			],
+			[
+				"con",
+				"canimmunize-web-client-v2/build/config-client.js"
+			],
+			[
+				"auth-planel-in",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-input-utils.tsx"
+			],
+			[
+				"colors.scss",
+				"canimmunize-web-client-v2/app/client/styles/variables/colors.scss"
+			],
+			[
+				"border.",
+				"canimmunize-web-client-v2/app/client/styles/utils/layout/border.scss"
+			],
+			[
+				"signupmodel",
+				"canimmunize-web-client-v2/app/client/models/signup-form-model.ts"
+			],
+			[
+				"config",
+				"canimmunize-web-client-v2/build/config-client.js"
+			],
+			[
+				"madutilsobject.ts",
+				"mad-utils/src/object.ts"
+			],
+			[
+				"createaccount",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/create-account-view.tsx"
+			],
+			[
+				"interg",
+				"canimmunize-web-client-v2/test/integration/integration-test-base.ts"
+			],
+			[
+				"enzyme-",
+				"canimmunize-web-client-v2/test/test-helpers/enzyme-jsdom-setup.ts"
+			],
+			[
+				"language-",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/language-signup-view.tsx"
+			],
+			[
+				"package",
+				"canimmunize-web-client-v2/package.json"
+			],
+			[
+				"enzymejsdome",
+				"canimmunize-web-client-v2/test/test-helpers/enzyme-jsdom-setup.ts"
+			],
+			[
+				"todo",
+				"canimmunize-web-client-v2/doc/todos/todo-web-client.md"
+			],
+			[
+				"signupcomponent",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-view-component-utils.tsx"
+			],
+			[
+				"submit",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/submit-signup-data.ts"
+			],
+			[
+				"signupcontainer",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-container.tsx"
+			],
+			[
+				"validation",
+				"mad-utils/src/validation.ts"
+			],
+			[
+				"languages.json",
+				"canimmunize-web-client-v2/app/i18n/spoken_languages.json"
+			],
+			[
+				"countrjson",
+				"canimmunize-web-client-v2/app/i18n/country_codes.json"
+			],
+			[
+				"signup-container",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-container.tsx"
+			],
+			[
+				"signupflowconfig",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-config-adapter.tsx"
+			],
+			[
+				"language-vie",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/language-signup-view.tsx"
+			],
+			[
+				"reacttypes.tsx",
+				"mad-utils/src/react/types-react.tsx"
+			],
+			[
+				"jsparamsublime",
+				"snippets/_langs/js/commenting/jsdoc/js--jsdoc--param.sublime-snippet"
+			],
+			[
+				"signup-st",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-style-utils.tsx"
+			],
+			[
+				"types-iso",
+				"mad-utils/src/types-iso.ts"
+			],
+			[
+				"authpanelinp",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-input-utils.tsx"
+			],
+			[
+				"signuplanguage",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/language-signup-view.tsx"
+			],
+			[
+				"adapter",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-config-adapter.tsx"
+			],
+			[
+				"withtoast",
+				"canimmunize-web-client-v2/app/client/hocs/with-toast-notifications.tsx"
+			],
+			[
+				"models/ro",
+				"canimmunize-web-client-v2/app/client/models/root-model.ts"
+			],
+			[
+				"loginview",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/login-card/login-card-view.tsx"
+			],
+			[
+				"coun",
+				"canimmunize-web-client-v2/app/i18n/country_codes.json"
+			],
+			[
+				"country_co",
+				"canimmunize-web-client-v2/app/i18n/country_codes.json"
+			],
+			[
+				"signupcountry",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/country-signup-view.tsx"
+			],
+			[
+				"spokenlan",
+				"canimmunize-web-client-v2/app/i18n/spoken_languages.json"
+			],
+			[
+				"langjson",
+				"canimmunize-web-client-v2/app/i18n/spoken_languages.json"
+			],
+			[
+				"apihelp",
+				"canimmunize-web-client-v2/app/client/helpers/api-helpers.ts"
+			],
+			[
+				"types.ts",
+				"canimmunize-web-client-v2/app/client/types/types.ts"
+			],
+			[
+				"signuptypes",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/signup-types.tsx"
+			],
+			[
+				"/signup/util",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-flow-config-adapter.tsx"
+			],
+			[
+				"authpanelinpu",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/auth-panel-input-utils.tsx"
+			],
+			[
+				"api-helpers",
+				"canimmunize-web-client-v2/app/client/helpers/api-helpers.ts"
+			],
+			[
+				"mad-utils/src/react/",
+				"mad-utils/src/react/types-react.tsx"
+			],
+			[
+				"react.tsx",
+				"mad-utils/react.tsx"
+			],
+			[
+				"signupmodel.ts",
+				"canimmunize-web-client-v2/app/client/models/signup-form-model.ts"
+			],
+			[
+				"signup-model",
+				"canimmunize-web-client-v2/app/client/models/signup-form-model.ts"
+			],
+			[
+				"typings.d.ts",
+				"canimmunize-web-client-v2/typings/custom/project-typings.d.ts"
+			],
+			[
+				"typings.ts",
+				"mad-utils/node_modules/reflect-metadata/typings.d.ts"
+			],
+			[
+				"typings.",
+				"canimmunize-web-client-v2/typings.json"
+			],
+			[
+				"todo20",
+				"canimmunize-web-client-v2/doc/todos/todo-web-client--2017-07-12.md"
+			],
+			[
+				"createaccountview",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/subviews/create-account-view.tsx"
+			],
+			[
+				"signup/component",
+				"canimmunize-web-client-v2/app/client/components-subapp/auth-landing/auth-panel/signup/utils/signup-view-component-utils.tsx"
+			],
+			[
+				"webpack-he",
+				"canimmunize-web-client-v2/config/webpack/webpack-helpers.js"
+			],
+			[
+				".babel",
+				"canimmunize-web-client-v2/.babelrc"
+			],
+			[
+				"cleancm",
+				"canimmunize-web-client-v2/script/util-cmds/clean-cmd.js"
+			],
+			[
+				"webpackprod",
+				"canimmunize-web-client-v2/config/webpack/webpack-prod-plugins.config.js"
+			],
+			[
+				"install-g",
+				"canimmunize-web-client-v2/script/setup-tasks/install-global-dependencies.sh"
+			],
+			[
+				"util-cli",
+				"canimmunize-web-client-v2/script/util-cli"
+			],
+			[
+				"nuke-cmd",
+				"canimmunize-web-client-v2/script/util-cmds/nuke-cmd.js"
+			],
+			[
+				"yarnclea",
+				"canimmunize-web-client-v2/.yarnclean"
+			],
+			[
+				"gitig",
+				"canimmunize-web-client-v2/.gitignore"
+			],
+			[
+				".gitig",
+				"canimmunize-web-client-v2/.gitignore"
+			],
+			[
+				"",
+				"canimmunize-web-client-v2/script/util-cmds/sync-src-to-build"
+			],
+			[
+				"sync-sr",
+				"canimmunize-web-client-v2/script/util-cmds/sync-src-to-build"
+			],
+			[
+				"webpackrules",
+				"canimmunize-web-client-v2/config/webpack/webpack-rules.config.js"
+			],
+			[
+				"project-typings",
+				"canimmunize-web-client-v2/typings/custom/project-typings.d.ts"
+			],
+			[
+				"config/module",
+				"canimmunize-web-client-v2/config/client-modules-config.js"
+			],
+			[
+				"moduleconfig",
+				"canimmunize-web-client-v2/config/config-adapters/module-config-adapters.js"
+			],
+			[
+				"doc/",
+				"canimmunize-web-client-v2/doc/awesome-collection.md"
+			],
+			[
+				"string.ts",
+				"mad-utils/src/string.ts"
+			],
+			[
+				"dom.",
+				"mad-utils/src/browser/dom.ts"
+			],
+			[
+				"number.spec",
+				"mad-utils/test/src/number.spec.ts"
+			],
+			[
+				"number",
+				"mad-utils/src/number.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 568.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
