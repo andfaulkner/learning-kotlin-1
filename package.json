@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build && npm run run",
+    "build-run": "npm run build && npm run run",
     "build": "gradle build",
+    "start": "npm run watch",
     "run": "node build/node/index.js",
     "watch": "nodemon --watch ./src --ext kt,js --exec 'npm run start'"
   },
