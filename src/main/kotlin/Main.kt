@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     // Log something to the console:
     println("Hello JavaScript!")
 
-
+    operatorBasics()
 
     // TOPIC: Kotlin variables / variable types
     variableTypes()

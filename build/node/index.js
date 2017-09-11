@@ -133,12 +133,34 @@
   }
   function main(args) {
     println('Hello JavaScript!');
+    operatorBasics();
     variableTypes();
     runningFunctions();
     lists();
     classes();
     var express = require('express');
   }
+  function operatorBasics() {
+    println('Operators');
+    var age = 10;
+    age = age * 3 | 0;
+    println('age: ' + age);
+    var exampleClass = new ExampleClass();
+    var exampleClass2 = exampleClass;
+    println('exampleClass === exampleClass2: ' + (exampleClass === exampleClass2));
+    println('"' + 'a' + '"' + ' === ' + '"' + 'a' + '"' + ': ' + ('a' === 'a'));
+    println('exampleClass == exampleClass2: ' + Kotlin.equals(exampleClass, exampleClass2));
+    println('"a" == "a": true');
+    println('arrayOf(' + '"' + 'a' + '"' + ', ' + '"' + 'b' + '"' + ') == arrayOf(' + '"' + 'a' + '"' + ', ' + '"' + 'b' + '"' + '): ' + Kotlin.equals(['a', 'b'], ['a', 'b']));
+    println('arrayOf(' + '"' + 'a' + '"' + ', ' + '"' + 'b' + '"' + ') === arrayOf(' + '"' + 'a' + '"' + ', ' + '"' + 'b' + '"' + '): ' + (['a', 'b'] === ['a', 'b']));
+  }
+  function ExampleClass() {
+  }
+  ExampleClass.$metadata$ = {
+    kind: Kotlin.Kind.CLASS,
+    simpleName: 'ExampleClass',
+    interfaces: []
+  };
   function variableTypes() {
     println('\n*** Define a mutable variable ***');
     var someVar = 'ok';
@@ -166,6 +188,8 @@
   _.lists = lists;
   _.ranges_vux9f0$ = ranges_0;
   _.main_kand9s$ = main;
+  _.operatorBasics = operatorBasics;
+  _.ExampleClass = ExampleClass;
   _.variableTypes = variableTypes;
   Kotlin.defineModule('index', _);
   main([]);
