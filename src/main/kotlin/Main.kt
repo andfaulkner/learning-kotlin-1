@@ -9,6 +9,8 @@ fun main(args: Array<String>) {
     // Log something to the console:
     println("Hello JavaScript!")
 
+
+
     // TOPIC: Kotlin variables / variable types
     variableTypes()
 
@@ -20,7 +22,7 @@ fun main(args: Array<String>) {
     // TOPIC: Kotlin lists
     lists()
 
-    // TOPIC: Kotlin classes
+    // TOPIC: Kotlin classes.
     classes()
 
     // *** You can load and access JS modules using require ***

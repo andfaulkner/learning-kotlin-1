@@ -9,6 +9,9 @@ fun classes(): Unit {
     var objFromClassWithCons = ClassWithConstructor()
     println(objFromClassWithCons)            // => [object Object]
     println(objFromClassWithCons.toString()) // => [object Object]
+
+    val objExample = AnotherClassExample("Meeka Faulkner")
+    println(objExample)
 }
 
 /****** DEFINE AN EMPTY CLASS ******/
@@ -40,5 +43,13 @@ class ClassWithFunctions {
 
     fun fullName(): String {
         return firstName + lastName
+    }
+}
+
+class AnotherClassExample {
+    var testName: String = ""
+
+    constructor(testName: String) {
+        this.testName = testName
     }
 }

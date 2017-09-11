@@ -10,6 +10,8 @@
     var objFromClassWithCons = ClassWithConstructor_init();
     println(objFromClassWithCons);
     println(objFromClassWithCons.toString());
+    var objExample = AnotherClassExample_init('Meeka Faulkner');
+    println(objExample);
   }
   function Empty() {
   }
@@ -62,6 +64,20 @@
     ClassWithFunctions.call($this);
     return $this;
   }
+  function AnotherClassExample() {
+    this.testName = '';
+  }
+  AnotherClassExample.$metadata$ = {
+    kind: Kotlin.Kind.CLASS,
+    simpleName: 'AnotherClassExample',
+    interfaces: []
+  };
+  function AnotherClassExample_init(testName, $this) {
+    $this = $this || Object.create(AnotherClassExample.prototype);
+    AnotherClassExample.call($this);
+    $this.testName = testName;
+    return $this;
+  }
   function runningFunctions() {
     println('\n**** Run function requiring no variables ****');
     hello();
@@ -101,6 +117,8 @@
   function lists() {
     println('\n****** Declare a list of type Int ******');
     var list1 = arrayListOf([0, 1, 2]);
+    println('\n****** Declare an untyped list ******');
+    var list2 = ['Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat'];
     println('\n****** Get list size ******');
     var list1Size = list1.size;
     println(list1Size);
@@ -138,6 +156,8 @@
   _.ClassWithProps = ClassWithProps;
   _.ClassWithFunctions_init_puj7f4$ = ClassWithFunctions_init;
   _.ClassWithFunctions = ClassWithFunctions;
+  _.AnotherClassExample_init_61zpoe$ = AnotherClassExample_init;
+  _.AnotherClassExample = AnotherClassExample;
   _.runningFunctions = runningFunctions;
   _.hello = hello;
   _.helloName_61zpoe$ = helloName;

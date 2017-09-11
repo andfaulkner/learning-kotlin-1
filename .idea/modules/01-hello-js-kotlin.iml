@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="01-hello-js-kotlin" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="node-example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JavaScript " useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="outputFile" value="$MODULE_DIR$/../../build/node/index.js" />
+          <option name="noStdlib" value="true" />
+          <option name="metaInfo" value="true" />
+          <option name="target" value="v5" />
+          <option name="moduleKind" value="commonjs" />
+          <option name="main" value="call" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/../../build/classes/main" />
     <output-test url="file://$MODULE_DIR$/../../build/classes/test" />

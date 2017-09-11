@@ -6,12 +6,15 @@ fun lists(): Unit {
     println("\n****** Declare a list of type Int ******")
     val list1 =  arrayListOf<Int>(0, 1, 2)
 
+    println("\n****** Declare an untyped list ******")
+    val list2 = arrayOf("Mon", "Tue", "Wed", "Thur", "Fri", "Sat");
+
     println("\n****** Get list size ******")
     val list1Size = list1.size
     println(list1Size) // => 3
 
     // SUBTOPIC: Ranges
-    println(ranges(0, 5)) // => [0, 1, 2, 3, 4, 5]
+    println(ranges(0, 5)) // => [0, 1, 2, 3, 4, 5]s
 }
 
 
